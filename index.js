@@ -14,3 +14,9 @@ app.post("/generate-api-key", (req, res) => {
 });
 
 
+app.post("/check", (req, res) => {
+  const { apikey } = req.body;
+
+  console.log("Request diterima di /check. API Key:", apikey);
+
+  
