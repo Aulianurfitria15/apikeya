@@ -1,8 +1,9 @@
 1. API KEY GENERATOR
  <img width="1920" height="1200" alt="API KEY GENERATOR" src="https://github.com/user-attachments/assets/deaa38d9-a2e4-46f9-ad84-551e98009093" />
 
-2. POST APIKEY
-   <img width="1920" height="1200" alt="SUKSES-APIKEY" src="https://github.com/user-attachments/assets/7becccd8-dac9-4da5-aaf8-6ace76479b75" />
+2. POST GENERATE
+   <img width="1920" height="1200" alt="POST_GENERATE" src="https://github.com/user-attachments/assets/43affe2e-778e-4e51-a5ae-08b8f397725c" />
+
 
 3. DATABASE
    <img width="1920" height="1200" alt="DATABASE" src="https://github.com/user-attachments/assets/7d5e3024-86de-40d2-8278-8738021e69e6" />
