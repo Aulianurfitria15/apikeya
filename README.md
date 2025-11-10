@@ -3,3 +3,6 @@
 
 2. SS AN POSTMAN NYA
    <img width="1920" height="1200" alt="SUKSES-APIKEY" src="https://github.com/user-attachments/assets/7becccd8-dac9-4da5-aaf8-6ace76479b75" />
+
+3. DATABASE
+   <img width="1920" height="1200" alt="DATABASE" src="https://github.com/user-attachments/assets/7d5e3024-86de-40d2-8278-8738021e69e6" />
