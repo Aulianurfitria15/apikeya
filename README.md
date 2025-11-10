@@ -1,5 +1,5 @@
 1. API KEY GENERATOR
- <img width="1920" height="1200" alt="API KEY GENERATOR" src="https://github.com/user-attachments/assets/deaa38d9-a2e4-46f9-ad84-551e98009093" />
+ <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9223c96d-7fdc-4d75-9439-1191a3efe677" />
 
 2. POST GENERATE
    <img width="1920" height="1200" alt="POST_GENERATE" src="https://github.com/user-attachments/assets/43affe2e-778e-4e51-a5ae-08b8f397725c" />
